@@ -8,10 +8,10 @@ Explore a dynamic world of animated GIFs, powered by the Giphy API. This project
 
 With its simple and intuitive interface, users can search for GIFs by keyword, explore trending options, and easily share their favorites. This project emphasizes usability and performance, offering fast and smooth interaction.
 
-## Screen Shots
+## Wireframes
 
-<img src="./images/a.png"/>
-<img src="./images/b.png"/>
+<img src="./images/c.png"/>
+<img src="./images/d.png"/>
 
 ## Technologies Used
 
@@ -26,10 +26,10 @@ With its simple and intuitive interface, users can search for GIFs by keyword, e
 2. **As a user**, I want to be able to clear the search bar so that I can search something else.
 3. **As a user**, I want to be able to use it both on the phone and web.
 
-## Wireframes
+## Screen Shots
 
-<img src="./images/c.png"/>
-<img src="./images/d.png"/>
+<img src="./images/a.png"/>
+<img src="./images/b.png"/>
 
 ## Next Steps
 
