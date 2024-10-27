@@ -13,8 +13,6 @@ With its simple and intuitive interface, users can search for GIFs by keyword, e
 <img src="./images/c.png"/>
 <img src="./images/d.png"/>
 <img src="./images/e.png"/>
-<img src="./images/f.png"/>
-
 ## Technologies Used
 
 - HTML
