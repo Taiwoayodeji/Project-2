@@ -13,6 +13,7 @@ body {
 header {
   color: black;
   text-align: center;
+  justify-content: space-between;
 }
 
 nav {
@@ -27,6 +28,14 @@ main {
   align-items: center;
   justify-content: center;
   flex: 1;
+}
+
+.site-title {
+  font-family: "Roboto", Regular 400;
+  font-size: 1.5rem;
+  margin: 0;
+  text-decoration: none;
+  color: #000000;
 }
 
 footer {
@@ -62,18 +71,19 @@ footer {
   border-radius: 10px;
 }
 
-@media (max-width: 320px) {
+@media (max-width: 576px) {
   header {
     flex-direction: column;
     text-align: center;
   }
 
-  nav {
-    margin-top: 10px;
+  .navbar {
+    flex-direction: column;
+    margin-top: 1rem;
+    gap: 10px;
   }
 
-  .gif-grid {
-    flex-direction: column;
-    align-items: center;
+  .gif-grid div {
+    flex: 1 1 45%;
   }
 }
